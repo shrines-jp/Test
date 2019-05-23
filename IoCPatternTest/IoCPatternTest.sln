@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogWriter", "LogWriter\LogWriter.csproj", "{D2DACB96-B113-40DB-9906-1D39F19953A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCConsoleTest", "IoCConsoleTest\IoCConsoleTest.csproj", "{AB1E54A5-1EAB-4432-A7F0-57C8C9764AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DACB96-B113-40DB-9906-1D39F19953A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DACB96-B113-40DB-9906-1D39F19953A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DACB96-B113-40DB-9906-1D39F19953A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DACB96-B113-40DB-9906-1D39F19953A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1E54A5-1EAB-4432-A7F0-57C8C9764AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1E54A5-1EAB-4432-A7F0-57C8C9764AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1E54A5-1EAB-4432-A7F0-57C8C9764AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1E54A5-1EAB-4432-A7F0-57C8C9764AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
